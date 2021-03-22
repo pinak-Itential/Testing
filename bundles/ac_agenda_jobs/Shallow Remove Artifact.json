@@ -1,0 +1,24 @@
+{
+  "_id": "6050efaab382789372bd0636",
+  "name": "Shallow Remove Artifact",
+  "data": {
+    "description": "",
+    "workflowId": "Shallow Remove Artifact",
+    "formId": "Shallow Remove Artifact",
+    "formData": {},
+    "gbac": {
+      "write": [],
+      "read": []
+    },
+    "lastUpdated": "2020-10-06T17:44:48.759Z",
+    "modifiedById": "601424815f970e44a97f394a",
+    "modifiedByUsername": "admin@pronghorn"
+  },
+  "lastModifiedBy": "4422e86baa61:137",
+  "lastRunAt": null,
+  "nextRunAt": null,
+  "priority": 0,
+  "repeatInterval": null,
+  "repeatTimezone": null,
+  "type": "normal"
+}
